@@ -1,6 +1,6 @@
 # Unity Pathways
 
-This repository contains my progress over [Unity Pathways](https://learn.unity.com/pathways).
+This repository contains my progress through [Unity Pathways](https://learn.unity.com/pathways).
 
 ## Unity Essentials (2 weeks)
 
