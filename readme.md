@@ -5,7 +5,7 @@ This repository contains my progress through [Unity Pathways](https://learn.unit
 ## 🟢 Unity Essentials (2 weeks)  
 
 - [x] 🖥️ Editor Essentials  
-- [ ] 🎨 3D Essentials  
+- [x] 🎨 3D Essentials  
 - [ ] 🎵 Audio Essentials  
 - [ ] 💻 Programming Essentials  
 - [ ] 🎮 2D Essentials  
