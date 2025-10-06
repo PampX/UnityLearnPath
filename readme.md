@@ -7,7 +7,7 @@ This repository contains my progress through [Unity Pathways](https://learn.unit
 - [x] 🖥️ Editor Essentials  
 - [x] 🎨 3D Essentials  
 - [x] 🎵 Audio Essentials  
-- [ ] 💻 Programming Essentials  
+- [x] 💻 Programming Essentials  
 - [ ] 🎮 2D Essentials  
 - [ ] 🌍 Publishing Essentials  
 
