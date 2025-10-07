@@ -8,7 +8,7 @@ This repository contains my progress through [Unity Pathways](https://learn.unit
 - [x] 🎨 3D Essentials  
 - [x] 🎵 Audio Essentials  
 - [x] 💻 Programming Essentials  
-- [ ] 🎮 2D Essentials  
+- [x] 🎮 2D Essentials  
 - [ ] 🌍 Publishing Essentials  
 
 ## 👨‍💻 Junior Programmer (12 weeks)  
