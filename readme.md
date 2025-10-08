@@ -9,8 +9,9 @@ This repository contains my progress through [Unity Pathways](https://learn.unit
 - [x] 🎵 Audio Essentials  
 - [x] 💻 Programming Essentials  
 - [x] 🎮 2D Essentials  
-- [ ] 🌍 Publishing Essentials  
+- [x] 🌍 Publishing Essentials  
 
+Results : [Click](https://play.unity.com/en/games/cc689581-2287-4634-b9d8-580f6173dd18/unity-essentials)
 ## 👨‍💻 Junior Programmer (12 weeks)  
 
 ## 🎨 Creative Core (10 weeks)  
