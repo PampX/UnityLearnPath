@@ -12,7 +12,18 @@ This repository contains my progress through [Unity Pathways](https://learn.unit
 - [x] 🌍 Publishing Essentials  
 
 Results : [Click](https://play.unity.com/en/games/cc689581-2287-4634-b9d8-580f6173dd18/unity-essentials)
+
 ## 👨‍💻 Junior Programmer (12 weeks)  
+
+- [x] 🕹️ [Player Control](https://play.unity.com/en/games/b8abca7d-fdce-4444-ad99-e96ed8d0dab2/prototype-1)
+- [ ] ⚙️ Basic Gameplay  
+- [ ] 🔊 Sound and Effects  
+- [ ] 🧩 Gameplay Mechanics  
+- [ ] 🧭 User Interface  
+- [ ] 🚀 Publishing Your Project  
+- [ ] 🗺️ Manage Scene Flow and Data  
+- [ ] 🧠 Apply Object-Oriented Principles  
+
 
 ## 🎨 Creative Core (10 weeks)  
 
