@@ -16,7 +16,7 @@ Results : [Click](https://play.unity.com/en/games/cc689581-2287-4634-b9d8-580f61
 ## 👨‍💻 Junior Programmer (12 weeks)  
 
 - [x] 🕹️ [Player Control](https://play.unity.com/en/games/b8abca7d-fdce-4444-ad99-e96ed8d0dab2/prototype-1)
-- [ ] ⚙️ Basic Gameplay  
+- [ ] ⚙️ Basic Gameplay  (processing...)
 - [ ] 🔊 Sound and Effects  
 - [ ] 🧩 Gameplay Mechanics  
 - [ ] 🧭 User Interface  
