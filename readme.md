@@ -25,7 +25,18 @@ Results : [Click](https://play.unity.com/en/games/cc689581-2287-4634-b9d8-580f61
 - [x] 🧠 Apply Object-Oriented Principles  
 
 
-## 🎨 Creative Core (10 weeks)  
+## 🎨 Creative Core (10 weeks)
+
+- [ ] 🎬 Introduction to Creative Core
+- [ ] 🎨 Shaders & Materials
+- [ ] 💡 Lighting
+- [ ] 🕺 Animation
+- [ ] ✨ VFX
+- [ ] 🎥 Cameras
+- [ ] 🎚️ Post-processing
+- [ ] 🔊 Audio
+- [ ] 🧭 UI
+- [ ] 🧪 Prototyping
 
 ## 🥽 VR Development (6 weeks)  
 
