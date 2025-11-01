@@ -30,7 +30,7 @@ Results : [Click](https://play.unity.com/en/games/cc689581-2287-4634-b9d8-580f61
 ## 🎨 Creative Core (10 weeks)
 
 - [x] 🎬 Introduction to Creative Core
-- [ ] 🎨 Shaders & Materials
+- [ ] 🎨 Shaders & Materials (processing...)
 - [ ] 💡 Lighting
 - [ ] 🕺 Animation
 - [ ] ✨ VFX
